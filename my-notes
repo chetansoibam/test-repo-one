@@ -1,0 +1,9 @@
+
+  default name
+    Example - npm start , npm install
+
+  custom name
+    Example - npm run chetan
+
+    "start": "node test.js",
+    "chetan": "node test.js"
